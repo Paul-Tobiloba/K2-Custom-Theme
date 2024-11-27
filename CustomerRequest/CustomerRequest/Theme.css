@@ -64,9 +64,9 @@
   font-display: swap;
   src: url(https://fonts.gstatic.com/s/inter/v18/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuBWYMZg.ttf) format('truetype');
 }
-/* Theme: CustomerRequest */
+/* Theme: LASGNET */
 /* Author: Paul Tobiloba */
-/* Date: 24/11/2024 */
+/* Date: 27/02/2023 */
 /* Header bottom border */
 /* Input/Control Validation */
 /* Command Button (Secondary)*/
@@ -1633,7 +1633,7 @@ html[dir=rtl] .theme-entry .input-control.select-box.picker-input.hide-buttons .
 .theme-entry .tree li a:hover,
 .theme-entry .tree li a:focus,
 .theme-entry .tree li a.hover {
-  background-color: #1d508e;
+  background-color: #0070ff;
   color: #ffffff !important;
 }
 /*selection style*/
@@ -1644,7 +1644,7 @@ html[dir=rtl] .theme-entry .input-control.select-box.picker-input.hide-buttons .
   color: #ffffff !important;
 }
 .theme-entry .tree li.selected > a:hover {
-  background-color: #1d508e;
+  background-color: #0070ff;
   color: #ffffff !important;
 }
 /* Collapsed Root Styling */
@@ -3705,7 +3705,7 @@ html[dir=rtl] .theme-entry #SessionExpirationWarningDialog label.input-control.c
 .theme-entry .menu li:hover,
 .theme-entry .menu li.active {
   border-color: transparent;
-  background: #1d508e;
+  background: #0070ff;
 }
 .theme-entry .menu li:hover span,
 .theme-entry .menu li.active span {
@@ -3844,7 +3844,7 @@ html .theme-entry .tab-box ul.tab-box-tabs a.tab.selected:hover .tab-wrapper {
 }
 .theme-entry .tab-box ul.tab-box-tabs a.tab.selected .tab-text,
 .theme-entry .tab-box ul.tab-box-tabs a.tab.selected:hover .tab-text {
-  color: #0e2e43;
+  color: rgb(29, 80, 142);;
   opacity: 1;
   filter: alpha(opacity=1);
 }
@@ -4294,8 +4294,8 @@ html[dir=rtl] .theme-entry .spinner .spinner-inputs .spinner-delimiter {
 .theme-entry .Slider-rail a.Slider:active:hover,
 .theme-entry .ajax__slider_h_handle:focus:hover,
 .theme-entry .Slider-rail a.Slider:focus:hover {
-  background: #1d508e;
-  border: 1px solid #1d508e;
+  background: #0070ff;
+  border: 1px solid #0070ff;
   cursor: pointer;
 }
 .theme-entry .grid table.grid-content-table tr:hover .ajax__slider_h_handle:not(.read-only):not(.disabled):hover,
