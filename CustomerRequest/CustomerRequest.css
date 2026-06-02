@@ -44,7 +44,7 @@ body.theme-entry,
 .theme-entry .input-control .input-control-m-c,
 .theme-entry .input-control .input-control-content {
   background-color: White;
-  border-color: #aaad9c;
+  border-color: #dcdddd;
 }
 .theme-entry .input-control.active .input-control-content {
   border-color: #98dc28;
@@ -1497,8 +1497,10 @@ html[dir=rtl] .theme-entry label.input-control .input-control-text {
   min-height: 3rem;
 }
 .theme-entry .input-control textarea {
-  border-width: 2px;
-  background-color: transparent;
+    border-width: 2px;
+    border-radius: 5px;
+    border-color: #dcdddd;
+    background-color: transparent;
 }
 .webkit .theme-entry .input-control textarea {
   vertical-align: top;
